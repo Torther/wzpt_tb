@@ -1,3 +1,5 @@
+# 移至 https://github.com/Torther/HealthRepoter
+
 # 温职打卡脚本
 
 1. Fork->Settings->Secrets
